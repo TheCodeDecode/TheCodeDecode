@@ -7,7 +7,7 @@ I'm a 26 year-old front-end Web Developer from Banaglore. I have a passion for c
 
 
 Languages / Frameworks:
-C#
+- C#
 Typescript
 Angular
 React
