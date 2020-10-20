@@ -8,16 +8,16 @@ I'm a 26 year-old front-end Web Developer from Banaglore. I have a passion for c
 
 Languages / Frameworks:
 - C#
-Typescript
-Angular
-React
-Javascript
-Jquery
-Salesforce
-Tessalte
+- Typescript
+- Angular
+- React
+- Javascript
+- Jquery
+- Salesforce
+- Tessalte
 
 Design Tools:
-Adobe Photoshop
-Adobe Indesign
-Adobe Illustrator
+- Adobe Photoshop
+- Adobe Indesign
+- Adobe Illustrator
 
