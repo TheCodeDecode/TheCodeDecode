@@ -14,7 +14,7 @@ Languages / Frameworks:
 - Javascript
 - Jquery
 - Salesforce
-- Tessalte
+- Tessellate
 
 Design Tools:
 - Adobe Photoshop
