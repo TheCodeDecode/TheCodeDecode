@@ -1,7 +1,7 @@
 
 
 
-I'm a 26 year-old front-end Web Developer from Banaglore. I have a passion for creating fast loading, dynamic, and responsive websites using the latest technologies available.
+I'm a 26 year-old front-end Web Developer from Banaglore. I have a passion for creating fast loading, dynamic, and responsive web application using the latest technologies available.
 
 { name: Akshay, age: 26 }
 
